@@ -12,4 +12,4 @@ Este repositório foi criado como parte da **TDE 1 (Trabalho Discente Efetivo)**
 
 ## 📁 Conteúdo do repositório
 
-Aqui estão armazenados os **arquivos em Python** desenvolvidos durante as aulas anteriores e os novos códigos que serãoo desenvolvidos durante a matéria.
+Aqui estão armazenados os **arquivos em Python** desenvolvidos durante as aulas anteriores e os novos códigos que serão desenvolvidos durante a matéria.
